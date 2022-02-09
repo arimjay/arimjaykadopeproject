@@ -1,0 +1,34 @@
+<html>
+<body>
+<script>
+var first_name="RANBIR";
+var last_name="KAPOOR";
+var full_name=first_name.concat(last_name);
+console.log(full_name);
+var a=10;
+console.log(a);
+var b=5;
+console.log(b);
+var add=a+b;
+console.log(add);
+var subtract=a-b;
+console.log(subtract);
+var multiply
+console.log(multiply);
+
+ <p>visual studio code is IDE u gotta download it from the internet and like then u gotts do what u like
+ </p>;
+
+
+
+    <p> console screen helps to see what wrong stuff we have done.U gotta inspect the pge to see the console screen.U can console by writting log and then choosing the second option and then u gotta write what u wanna console in the brackets
+ </p>;
+
+
+</script>
+
+
+</body>
+
+
+</html>
